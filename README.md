@@ -12,7 +12,7 @@ Front-End Engineer / Tech Lead focused on building reliable, scalable Web and Mo
 
 ## Tech Stack
 
-**Front-end:** React, React Native, Next.js, Vue, TypeScript, Redux Toolkit, Expo.
+**Front-end:** React, React Native, Vue, Next.js, Nuxt.js, Expo.  
 **Backend / Infra:** Node.js, MySQL, SQLite, Supabase, CI/CD (GitHub Actions), Sentry, automation.
 
 ## Contact
